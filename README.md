@@ -6,6 +6,15 @@ docker-compose build
 
 ```
 
+# front/fontend ディレクトにて npm のインストール
+
+```
+cd .\front\frontend\
+npm install
+cd ../../
+
+```
+
 # docker-compose で起動
 
 ```
