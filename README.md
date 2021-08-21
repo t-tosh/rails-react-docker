@@ -14,7 +14,7 @@ docker-compose build
 
 ```
 
-docker-compose run --rm front sh -c "yarn create react-app frontend
+docker-compose run --rm front sh -c "yarn create react-app frontend"
 
 ```
 
